@@ -7,6 +7,9 @@ node_js:
 
 script: jasmine test.js
 
+install: 
+    
+    - npm install
 
 
 
