@@ -1,0 +1,84 @@
+
+{
+
+
+
+			"User_info":[	
+
+				{
+					 "id":"01",
+					 "img":"../images/sreenath.jpg",
+					 "lastSeen":"5:00",
+					 "name":"Sreenath",
+					 "chat_list":[
+					 	"HI",
+					 	"sreenath"
+					 	
+					 ]
+					 
+					
+				},
+
+				{
+					 "id":"02",
+					 "img":"../images/sabir.jpg",
+					 "lastSeen":"Yesterday",
+					 "name":"Sabir",
+					 "chat_list":[
+					 	"Hi",
+					 	"Sabir"
+					 	
+					 ]
+					 
+					
+				},
+
+				{
+					 "id":"03",
+					 "img":"../images/finnidy.jpg",
+					 "lastSeen":"Yesterday",
+					 "name":"Finnidy",
+					 "chat_list":[
+					 	"Hi",
+					 	"Finnidy"
+					 	
+					 ]
+					 
+					
+				},
+
+
+				{
+					 "id":"04",
+					 "img":"../images/finnidy.jpg",
+					 "lastSeen":"Yesterday",
+					 "name":"Richard",
+					 "chat_list":[
+					 	"Hi",
+					 	"Richard"
+					 	
+					 ]
+					 
+					
+				},
+				{
+					 "id":"05",
+					 "img":"../images/finnidy.jpg",
+					 "lastSeen":"9:15",
+					 "name":"Ambani",
+					 "chat_list":[
+					 	"Hi",
+					 	"Ambani"
+					 	
+					 ]
+					 
+					
+				}
+
+
+
+
+		
+]
+				
+}
